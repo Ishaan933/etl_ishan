@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+
+  - name: ISHAN_DIT_45604 
+    description: "Class test data"
+    database: ISHAN_DIT_45604 
+    schema: CLASS_TEST
+    tables: 
+      - name: CUSTOMER
+        description: "This is the customer table info"
+      - name: ORDER1
+        description: "This is orders table info"
+      - name: PRODUCT
+        description: "This is a product table info"
