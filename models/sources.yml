@@ -2,9 +2,9 @@ version: 2
 
 sources:
 
-  - name: ISHAN_DIT_45604 
+  - name: ISHAN_DIT_45604
     description: "Class test data"
-    database: ISHAN_DIT_45604 
+    database: ISHAN_DIT_45604
     schema: CLASS_TEST
     tables: 
       - name: CUSTOMER
